@@ -267,6 +267,12 @@ strong {
   font-size: 0.96rem;
 }
 
+.profile-info .profile-role {
+  white-space: nowrap;
+  font-size: 0.86rem;
+  letter-spacing: -0.01em;
+}
+
 .profile-info a {
   color: var(--blue);
   font-size: 0.94rem;
