@@ -335,7 +335,7 @@ strong {
 
 .highlight-card,
 .topic-card,
-paper-card,
+.paper-card,
 .panel {
   border: 1px solid var(--line);
   border-radius: var(--radius);
