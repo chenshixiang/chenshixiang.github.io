@@ -280,7 +280,7 @@ strong {
 }
 
 .notice-strip {
-  margin: 0 0 -18px;
+  margin: -18px 0 34px;
 }
 
 .notice-inner {
@@ -335,7 +335,7 @@ strong {
 
 .highlight-card,
 .topic-card,
-.paper-card,
+paper-card,
 .panel {
   border: 1px solid var(--line);
   border-radius: var(--radius);
@@ -829,6 +829,10 @@ div#footer-text {
 
   .lead {
     font-size: 1.08rem;
+  }
+
+  .notice-strip {
+    margin: -6px 0 26px;
   }
 
   .notice-inner {
